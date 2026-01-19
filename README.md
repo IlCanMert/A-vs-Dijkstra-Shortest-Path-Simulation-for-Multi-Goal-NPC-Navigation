@@ -64,4 +64,3 @@ An interactive Python application that simulates and compares **A\*** and **Dijk
 * Mertcan İLHAN
 * Oğuzhan YAZICI
 * Tunahan İÇÖZ
-[cite_start][cite: 670]
